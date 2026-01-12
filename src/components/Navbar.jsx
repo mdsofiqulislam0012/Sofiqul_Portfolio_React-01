@@ -28,7 +28,7 @@ export default function Navbar() {
         <div className='container flex items-center
          justify-between'>
             <a href='#hero' className='text-xl font-bold text-primary flex itemscenter'>
-                <span className='relative z-10'><span className='text-glow text-foreground'>PedroTech</span>Portfolio</span>
+                <span className='relative z-10'><span className='text-glow text-foreground'>SofiqulTech</span>Portfolio</span>
             </a>
 
             {/* desktop verson */}
