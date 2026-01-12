@@ -1,0 +1,18 @@
+import React from 'react'
+
+export default function HeroSection() {
+  return (
+    <section id='hero' className='relative min-h-screen flex flex-col items-center justify-center px-4'>
+        <div className='container max-w-4xl mx-auto text-center z-10'>
+            <div className='space-y-6'>
+                <h1><span>Hi, I'm</span></h1>
+                <h1><span>Sofiqul</span></h1>
+                <h1><span>Islam</span></h1>
+
+            </div>
+
+        </div>
+
+    </section>
+  )
+}
