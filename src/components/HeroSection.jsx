@@ -7,11 +7,11 @@ export default function HeroSection() {
             <div className='container max-w-4xl mx-auto text-center z-10'>
                 <div className='space-y-6'>
                     <h1 className='text-4xl md:text-6xl font-bold tracking-tight'><span className='opacity-0 animate-fade-in'>Hi, I'm</span>
-                        <span className='text-primary opacity-0 ml-1 animate-fade-in-delay-1'>Sofiqul</span>
-                        <span className='text-gradient ml-2 opacity-0 animate-fade-in-delay-2'>Islam</span>
+                        <span className='text-primary opacity-0 ml-1 animate-fade-in-delay-1'> Sofiqul</span>
                     </h1>
 
-                    <p className='text-lg md:text-xl text-muted-foreground max-2xl mx-auto opacity-0 animate-fade-in-delay-3'> I work functional, and performance-driven web solutions. I always aim to deliver high-quality work</p>
+                    <p className='text-lg md:text-xl text-muted-foreground max-2xl mx-auto opacity-0 animate-fade-in-delay-2'>
+                        I work functional, and performance-driven web solutions. I always aim to deliver high-quality work</p>
 
                     <div className='pt-4 opacity-0 animate-fade-in-delay-3'>
                         <a href='#projects' className='cosmic-button'>

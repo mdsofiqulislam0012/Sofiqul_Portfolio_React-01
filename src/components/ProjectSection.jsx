@@ -7,7 +7,7 @@ const projects = [
         title: "Islamic Knowledge Platform",
         description:
             "A modern Islamic educational platform providing Hadith, Quran, scholars profiles, and authentic Islamic knowledge in Bangla with a clean and responsive UI.",
-        image: "/public/Projects/islamic_knowledge.png",
+        image: "https://i.ibb.co.com/20FCHXmw/islamic-knowledge.png",
         tags: ["React", "TailwindCss", "Supabase"],
         demoUrl: "https://islamic-knowledge-project.netlify.app/",
         githubUrl: "https://github.com/mdsofiqulislam0012"
@@ -18,7 +18,7 @@ const projects = [
         title: "Dragon News Related Website",
         description:
             "A feature-rich news portal with category-based filtering, authentication system, social login, and responsive layout inspired by professional news websites.",
-        image: "/public/Projects/dragon_news.png",
+        image: "https://i.ibb.co.com/PZc56YqL/dragon-news.png",
         tags: ["React", "TailwindCss", "Firebase"],
         demoUrl: "https://dragon-news-big-project.netlify.app/",
         githubUrl: "https://github.com/mdsofiqulislam0012"
@@ -29,7 +29,7 @@ const projects = [
         title: "Responsive Website",
         description:
             "A personal portfolio website showcasing projects, skills, and contact information with smooth animations and modern UI design.",
-        image: "/public/Projects/super_client.png",
+        image: "https://i.ibb.co.com/pj5T2QTd/super-client.png",
         tags: ["React", "TailwindCss", "Framer Motion"],
         demoUrl: "https://personal-portfolio-00dgfdssd.netlify.app/",
         githubUrl: "https://github.com/mdsofiqulislam0012"
@@ -40,8 +40,28 @@ const projects = [
         title: "Like YouTube Related Site",
         description:
             "A visually engaging testimonial section designed to showcase client feedback with gradient backgrounds, card animations, and fully responsive layout.",
-        image: "/public/Projects/like_youtube.png",
+        image: "https://i.ibb.co.com/RGNmF5DX/like-youtube.png",
         tags: ["React", "TailwindCss"],
+        demoUrl: "https://ph-m35-rps-youtube-project.netlify.app/",
+        githubUrl: "https://github.com/mdsofiqulislam0012"
+    },
+    {
+        id: 5,
+        title: "My YouTube Site",
+        description:
+            "A modern and visually engaging testimonial section crafted to showcase client feedback with rich gradient backgrounds, fluid card animations, and a fully responsive design.",
+        image: "https://i.ibb.co.com/mV8rbVTW/Project8.png",
+        tags: ["React", "TailwindCss", "Html", "Js"],
+        demoUrl: "https://ph-m35-rps-youtube-project.netlify.app/",
+        githubUrl: "https://github.com/mdsofiqulislam0012"
+    },
+    {
+        id: 6,
+        title: "Lawyar Booking Website",
+        description:
+            "A visually appealing testimonial section featuring client feedback, gradient backgrounds, animated cards, and a fully responsive layout.",
+        image: "https://i.ibb.co.com/0pfYMfny/Project3.png",
+        tags: ["React", "TailwindCss", "Html", "Js"],
         demoUrl: "https://ph-m35-rps-youtube-project.netlify.app/",
         githubUrl: "https://github.com/mdsofiqulislam0012"
     }
